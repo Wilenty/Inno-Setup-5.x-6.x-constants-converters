@@ -1,3 +1,8 @@
+# InnoSetup 5.x/6.x constants converters
+
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Inno-Setup-5.x-6.x-constants-converters/total.svg)](https://github.com/Wilenty/Inno-Setup-5.x-6.x-constants-converters/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Inno-Setup-5.x-6.x-constants-converters/latest/total.svg)](https://github.com/Wilenty/Inno-Setup-5.x-6.x-constants-converters/releases/latest)
+
 If my tool helps you in any way, please support me.<br>
 <br>
 There you can check if, for example, you entered the constants correctly in your installer, which you are just creating. As well as you can expand all constants or change the entire command to constants for Inno Setup.<br>
