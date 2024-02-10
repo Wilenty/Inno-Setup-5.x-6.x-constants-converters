@@ -1,5 +1,6 @@
 # InnoSetup 5.x/6.x constants converters
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Inno-Setup-5.x-6.x-constants-converters.svg)](https://github.com/Wilenty/Inno-Setup-5.x-6.x-constants-converters/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Inno-Setup-5.x-6.x-constants-converters/total.svg)](https://github.com/Wilenty/Inno-Setup-5.x-6.x-constants-converters/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Inno-Setup-5.x-6.x-constants-converters/latest/total.svg)](https://github.com/Wilenty/Inno-Setup-5.x-6.x-constants-converters/releases/latest)
 
